@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Skikid
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning c++
+- 👋 Hi, I’m @Skydwiz
+- 👀 I’m interested in cybersecurity, pentesting
+- 🌱 I’m currently learning python/sql/c++
 - 📫 How to reach me : skydwizcode@gmail.com 
 
 <!---
